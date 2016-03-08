@@ -11,9 +11,9 @@ public class line {
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
 		//显示JFrame
-		Chart chart = new line().getChart();
-		new SwingWrapper(chart).displayChart(); 
-
+//		Chart chart = new line().getChart();
+//		new SwingWrapper(chart).displayChart(); 
+//fsakdflkajsdl
 
 	}
 
