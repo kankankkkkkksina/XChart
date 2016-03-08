@@ -13,6 +13,7 @@ public class line {
 		//ÏÔÊ¾JFrame
 //		new SwingWrapper(chart).displayChart(); 
 		//test
+		//jafldllasd
 	}
 
 	
