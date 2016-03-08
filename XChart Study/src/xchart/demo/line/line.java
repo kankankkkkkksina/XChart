@@ -14,6 +14,7 @@ public class line {
 //		new SwingWrapper(chart).displayChart(); 
 		//test
 		//jafldllasd
+		//13132123
 	}
 
 	
