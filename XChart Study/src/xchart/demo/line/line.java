@@ -6,6 +6,7 @@ public class line {
 		// TODO 自动生成的方法存根
 		//sout
 		//say some things
+		// is OK
 	}
 
 }
