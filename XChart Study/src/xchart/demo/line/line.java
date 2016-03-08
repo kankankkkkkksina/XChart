@@ -11,10 +11,15 @@ public class line {
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
 		//显示JFrame
-//		new SwingWrapper(chart).displayChart(); 
-		//test
-		//jafldllasd
-		//13132123
+		Chart chart = new line().getChart();
+		new SwingWrapper(chart).displayChart(); 
+
+
+	}
+
+	private Chart getChart() {
+		// TODO 自动生成的方法存根
+		return null;
 	}
 
 	
