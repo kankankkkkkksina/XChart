@@ -19,6 +19,7 @@ public class line {
 
 	private Chart getChart() {
 		// TODO 自动生成的方法存根
+		Chart_XY chart = new ChartBuilder_XY().width(800).height(600).title("Powers of Ten").xAxisTitle("Power").yAxisTitle("Value").build();
 		return null;
 	}
 
